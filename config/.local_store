@@ -76,5 +76,53 @@
         "manageableState": "unmanaged",
         "type": "ApexClass",
         "mmState": "clean"
+    },
+    "LeadTrigger.trigger": {
+        "id": "01q1I000000FGVeQAO",
+        "name": "LeadTrigger",
+        "createdDate": "2017-11-01T23:07:32.000+0000",
+        "createdById": "0051I000000J0GIQA0",
+        "namespacePrefix": null,
+        "lastModifiedById": "0051I000000J0GIQA0",
+        "lastModifiedDate": "2017-11-01T23:54:36.000+0000",
+        "fullName": "LeadTrigger",
+        "fileName": "unpackaged/triggers/LeadTrigger.trigger",
+        "createdByName": "John Bishop",
+        "lastModifiedByName": "John Bishop",
+        "manageableState": "unmanaged",
+        "type": "ApexTrigger",
+        "mmState": "clean"
+    },
+    "ContactTrigger.trigger": {
+        "id": "01q1I000000FIoBQAW",
+        "name": "ContactTrigger",
+        "createdDate": "2017-11-02T21:45:25.000+0000",
+        "createdById": "0051I000000J0GIQA0",
+        "namespacePrefix": null,
+        "lastModifiedById": "0051I000000J0GIQA0",
+        "lastModifiedDate": "2017-11-02T22:05:38.000+0000",
+        "fullName": "ContactTrigger",
+        "fileName": "unpackaged/triggers/ContactTrigger.trigger",
+        "createdByName": "John Bishop",
+        "lastModifiedByName": "John Bishop",
+        "manageableState": "unmanaged",
+        "type": "ApexTrigger",
+        "mmState": "clean"
+    },
+    "ContactTriggerHelper.cls": {
+        "id": "01p1I000008p9qoQAA",
+        "name": "ContactTriggerHelper",
+        "createdDate": "2017-11-02T21:47:10.000+0000",
+        "createdById": "0051I000000J0GIQA0",
+        "namespacePrefix": null,
+        "lastModifiedById": "0051I000000J0GIQA0",
+        "lastModifiedDate": "2017-11-02T23:58:01.000+0000",
+        "fullName": "ContactTriggerHelper",
+        "fileName": "unpackaged/classes/ContactTriggerHelper.cls",
+        "createdByName": "John Bishop",
+        "lastModifiedByName": "John Bishop",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
     }
 }
